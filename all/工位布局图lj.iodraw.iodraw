@@ -848,7 +848,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-64" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;工位三&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="343.75" y="-1320" width="80" height="40" as="geometry" />
+          <mxGeometry x="342.25" y="-1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-65" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="293" y="-1163.4299999999998" width="40" height="80" as="geometry" />
@@ -1098,6 +1098,9 @@
             <mxPoint x="300.68125" y="-1355" as="sourcePoint" />
             <mxPoint x="300.68125" y="-1391" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jc6QOr5GLHF5SqNWKPGx-144" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;flipH=0;flipV=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="332" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
