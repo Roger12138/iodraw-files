@@ -778,12 +778,6 @@
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="-626.87" width="20" height="186.87" as="geometry" />
         </mxCell>
-        <mxCell id="jc6QOr5GLHF5SqNWKPGx-8" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="-626" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jc6QOr5GLHF5SqNWKPGx-9" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;flipH=0;flipV=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="-468" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-10" value="" style="group;rotation=40;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="280" y="-490" width="50" height="30" as="geometry" />
         </mxCell>
