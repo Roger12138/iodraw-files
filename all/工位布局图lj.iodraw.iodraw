@@ -1000,7 +1000,7 @@
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-112" value="" style="group;rotation=-40;" vertex="1" connectable="0" parent="jc6QOr5GLHF5SqNWKPGx-111">
           <mxGeometry x="1.7763568394002505e-15" width="55.22080132013793" height="51.22080132013793" as="geometry" />
         </mxCell>
-        <mxCell id="jc6QOr5GLHF5SqNWKPGx-113" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="jc6QOr5GLHF5SqNWKPGx-112">
+        <mxCell id="jc6QOr5GLHF5SqNWKPGx-113" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-25;" vertex="1" parent="jc6QOr5GLHF5SqNWKPGx-112">
           <mxGeometry x="21" y="10" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;rotation=0;" vertex="1" parent="jc6QOr5GLHF5SqNWKPGx-112">
@@ -1100,7 +1100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-144" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;flipH=0;flipV=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="332" width="30" height="20" as="geometry" />
+          <mxGeometry x="223" y="-1060" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
