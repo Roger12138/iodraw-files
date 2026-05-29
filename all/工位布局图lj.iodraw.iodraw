@@ -1102,12 +1102,6 @@
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-144" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;flipH=0;flipV=0;direction=south;" vertex="1" parent="1">
           <mxGeometry x="223" y="-1060" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jc6QOr5GLHF5SqNWKPGx-146" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;相机角度可调&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="511.5" y="-1133.67" width="92.88" height="13.13" as="geometry" />
-        </mxCell>
-        <mxCell id="jc6QOr5GLHF5SqNWKPGx-147" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;相机俯仰角度可调&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="513" y="-1503.67" width="92.88" height="13.13" as="geometry" />
-        </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-148" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;相机俯仰角度可调&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="506.37" y="-1803.67" width="92.88" height="13.13" as="geometry" />
         </mxCell>
