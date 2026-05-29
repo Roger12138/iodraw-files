@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="211.5" y="-1886.87" width="20" height="186.87" as="geometry" />
+          <mxGeometry x="201.5" y="-1886.87" width="20" height="186.87" as="geometry" />
         </mxCell>
         <mxCell id="jc6QOr5GLHF5SqNWKPGx-10" value="" style="group;rotation=40;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="461.5" y="-1810" width="50" height="30" as="geometry" />
