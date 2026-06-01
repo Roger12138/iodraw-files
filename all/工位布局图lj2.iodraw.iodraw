@@ -1243,7 +1243,7 @@
             <mxPoint x="324.74" y="-245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-71" value="30mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-71" value="60mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="332.53" y="-225" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=4;startSize=4;" edge="1" parent="1">
