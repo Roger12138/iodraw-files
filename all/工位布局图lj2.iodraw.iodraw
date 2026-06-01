@@ -1252,8 +1252,8 @@
             <mxPoint x="377" y="-320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-73" value="50±20mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460.78" y="-273.6700000000001" width="80" height="20" as="geometry" />
+        <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-73" value="120±20mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371" y="-295.00000000000006" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-84" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-Kz6_bYmlUgwaQ-OSkBT-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
