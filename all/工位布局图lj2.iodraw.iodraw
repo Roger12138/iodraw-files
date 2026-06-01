@@ -1312,7 +1312,7 @@
         <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-99" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="726.44" y="-305.66999999999996" as="sourcePoint" />
-            <mxPoint x="638.5600000000001" y="-305.4599999999999" as="targetPoint" />
+            <mxPoint x="680" y="-305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
