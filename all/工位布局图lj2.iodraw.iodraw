@@ -1166,7 +1166,10 @@
           <mxGeometry x="683.44" y="-1480" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;俯视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562.69" y="-1370" width="80" height="40" as="geometry" />
+          <mxGeometry x="567.12" y="-1355" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-Kz6_bYmlUgwaQ-OSkBT-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;俯视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577.12" y="-1345" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
