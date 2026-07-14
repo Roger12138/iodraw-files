@@ -240,11 +240,26 @@
             <mxPoint x="50.82" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ENsqErCs_sFGNB5QbEgU-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-90" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="142" as="sourcePoint" />
-            <mxPoint x="60" y="142" as="targetPoint" />
+            <mxPoint x="229.57" y="225" as="sourcePoint" />
+            <mxPoint x="230" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-91" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.20999999999998" y="196.06" as="sourcePoint" />
+            <mxPoint x="164.20999999999998" y="152.93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-92" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=4;startSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="162" as="sourcePoint" />
+            <mxPoint x="227.5" y="161.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-93" value="85mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="142" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
