@@ -210,8 +210,8 @@
             <mxPoint x="130" y="340.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ENsqErCs_sFGNB5QbEgU-76" value="350mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130.00000000000003" y="233.18" width="40" height="20" as="geometry" />
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-76" value="袋子高度&lt;div&gt;mm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="233.18" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-77" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
