@@ -232,12 +232,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-87" value="760mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50.00000000000003" y="199.18" width="40" height="20" as="geometry" />
+          <mxGeometry x="50.00000000000003" y="225" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-88" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80.82" y="350.12" as="sourcePoint" />
             <mxPoint x="50.82" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="142" as="sourcePoint" />
+            <mxPoint x="60" y="142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
