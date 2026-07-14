@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L7f2xM0tKy7tiKWVOB0E-3" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="200" y="200" width="40" height="140" as="geometry" />
+          <mxGeometry x="200" y="170" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="L7f2xM0tKy7tiKWVOB0E-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97c7f7;" parent="L7f2xM0tKy7tiKWVOB0E-3" vertex="1">
-          <mxGeometry y="30" width="40" height="80" as="geometry" />
+          <mxGeometry y="36.42857142857142" width="40" height="97.14285714285714" as="geometry" />
         </mxCell>
         <mxCell id="L7f2xM0tKy7tiKWVOB0E-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97c7f7;" parent="L7f2xM0tKy7tiKWVOB0E-3" vertex="1">
-          <mxGeometry x="10" y="7.777777777777778" width="20" height="22.21333333333333" as="geometry" />
+          <mxGeometry x="10" y="9.444444444444443" width="20" height="26.97333333333333" as="geometry" />
         </mxCell>
         <mxCell id="L7f2xM0tKy7tiKWVOB0E-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="82.82" y="160.01" width="20" height="186.87" as="geometry" />
@@ -210,8 +210,8 @@
             <mxPoint x="130" y="340.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ENsqErCs_sFGNB5QbEgU-76" value="袋子高度&lt;div&gt;mm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="233.18" width="50" height="20" as="geometry" />
+        <mxCell id="ENsqErCs_sFGNB5QbEgU-76" value="350mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130.00000000000003" y="233.18" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-77" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
