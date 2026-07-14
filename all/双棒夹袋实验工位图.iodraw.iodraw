@@ -221,23 +221,23 @@
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-85" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="176" as="sourcePoint" />
-            <mxPoint x="140" y="176" as="targetPoint" />
+            <mxPoint x="80" y="132" as="sourcePoint" />
+            <mxPoint x="50" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;endSize=4;startSize=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140.22000000000003" y="178.34" as="sourcePoint" />
-            <mxPoint x="140" y="350.55" as="targetPoint" />
+            <mxPoint x="50.22000000000003" y="134.34" as="sourcePoint" />
+            <mxPoint x="50" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-87" value="350mm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140.00000000000003" y="243.18" width="40" height="20" as="geometry" />
+          <mxGeometry x="50.00000000000003" y="199.18" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ENsqErCs_sFGNB5QbEgU-88" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="353" as="sourcePoint" />
-            <mxPoint x="140" y="352.88" as="targetPoint" />
+            <mxPoint x="82.82" y="350.12" as="sourcePoint" />
+            <mxPoint x="52.82" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
